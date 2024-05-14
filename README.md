@@ -1,3 +1,4 @@
+Introduction to Project 
 
 In my ADS Final Project at Northeastern University for Spring 2024, I developed a practical application that simplifies interacting with PDF documents. My project leverages LangChain and Streamlit technologies to create a chatbot that allows users to upload PDFs and inquire about their content. This chatbot is crafted to assist users in easily finding and understanding information within PDFs.
 
